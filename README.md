@@ -1,10 +1,10 @@
-# Halo semua! 
+# Halo semua!
 
 Perkenalkan nama saya **Dimas Mario**.<br>
 
-Saya seorang **cloud computing** di [Dicoding](https://www.dicoding.com/).<br>
+Saya seorang spesialis **Cloud Computing** yang sedang belajar mendalam di program [Bangkit 2024](https://grow.google/intl/id_id/bangkit/) dan aktif mengikuti kursus di [Dicoding](https://www.dicoding.com/). Saat ini, saya fokus pada pengembangan kemampuan dalam teknologi Google Cloud dan terus meningkatkan keahlian saya di bidang komputasi awan.
 
-Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/dimas-mario-a05aa2281/)ku ya.
+Jika kamu tertarik untuk terhubung atau sekadar berdiskusi seputar teknologi cloud, silakan ikuti akun [LinkedIn](https://www.linkedin.com/in/dimas-mario/) saya!
 
 <p align="left">
 <a href="https://github.com/penuliscode">
